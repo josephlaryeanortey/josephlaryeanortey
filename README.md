@@ -1,8 +1,16 @@
 # Joseph Laryea Nortey 👨‍💻 | Full Stack Software Engineer | Christian 🌟
 
-![Coding Image](coding-image.webp)
+<div align="center">
+  <img src="coding-image.webp" alt="Coding Image" />
+</div>
 
 I am a Full Stack Software Engineer with experience in both frontend and backend technologies. My passion for coding and my dedication to Christian values inspire me to build meaningful solutions and share my knowledge with others. Outside of software development, I'm an MPhil Environmental/Analytical Chemist, a filmmaker, and the founder of [Christian Gospel Hype](https://christiangospelhype.com).
+
+---
+
+## GitHub Contribution Streak 🔥
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephlaryeanortey&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
